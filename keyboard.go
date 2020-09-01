@@ -1,3 +1,4 @@
+//reads from the standard I/P i.e. keybaoard as string and then converts the entry into float 64 number
 package keyboard
 
 import (
